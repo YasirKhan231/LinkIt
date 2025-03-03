@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LinkIt",
-  description: "Save links ",
+  title: "LinkIt - Save & Organize Your Links Effortlessly",
+  description:
+    "The modern way to collect, organize, and access your favorite websites in one beautiful space. ",
 };
 
 export default function RootLayout({
